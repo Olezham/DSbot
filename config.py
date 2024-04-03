@@ -1,1 +1,1 @@
-TOKEN = 'NzMzNDA1NzI2NDI4MzY0OTIx.G8CbQr.T2jWqWl6Gt5cuM9HVIHqkbRlX9yww9ad7715I8'
+TOKEN = 'Ага думал хакер?'
